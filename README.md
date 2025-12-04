@@ -8,7 +8,7 @@ The dashboard presents key business metrics and helps identify trends that suppo
 To design a comprehensive dashboard that showcases sales, profit, and order trends, while highlighting the highest-performing regions, categories, and sub-categories.
 
 🖼 Dashboard Preview
-[Dashboard] (https://github.com/SrinjoyMisra/FUTURE_DS_01/blob/main/Superstore%20sales%20Dashboard%20Task%2001.pbix)
+[Dashboard](https://github.com/SrinjoyMisra/FUTURE_DS_01/blob/main/Superstore%20Sales%20dashboard%201.png)
 
 
 
